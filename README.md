@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @blaze534
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on Minecraft Server
+- 🌱 I’m currently learning Ai reasoning
+- 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me: on discord: blaze534.py
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: im 15 yo
