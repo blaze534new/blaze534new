@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @blaze534
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Ai Agents
-- 💞️ I’m looking to collaborate on AI projects
+- 👀 I’m interested in Minecraft
+- 💞️ I’m looking to collaborate on Red Velvet Studios
 - 📫 How to reach me: on discord: blaze534.py
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: im 16 yo
 
 <!---
 blaze534new/blaze534new is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
